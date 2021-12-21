@@ -63,9 +63,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("user_id", "onCreate: "+ user_id);
                     Log.d("title","onCreate: "+ title);*/
 
-                    //
 
-                    //
 
                 } catch (JSONException e) {
                     e.printStackTrace();
